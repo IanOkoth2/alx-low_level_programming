@@ -1,14 +1,14 @@
 #include <stdio.h>
-/** 
+/**
  * Main block
- * Description: Program that prints the alphabet in lowercase followed by a new line
+ * Description: Program that prints the alphabet in lowercase
  * Return: 0
  */
-int main(void) 
+int main(void)
 {
 	char c = 'a';
 
-	while (c <= 'z') 
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
