@@ -4,6 +4,11 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+ * main - main block
+ * Description: Print statements based on the last digit of the random number.
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
